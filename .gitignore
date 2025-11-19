@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+
+# OS / Temp files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Build / output
+dist/
+build/
+*.egg-info/
+
+# Wireshark temporary
+*.tmp.pcap
+*.tmp.pcapng
+
+# Images / phone RAW files
+*.HEIC
+*.raw
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# TAP interface artifacts
+*.tap
